@@ -39,7 +39,7 @@ class HomeWidget extends StatelessWidget {
                   );
                 },
                 child: Text(
-                  'f بازی',
+                  'f بازddddddddی',
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
