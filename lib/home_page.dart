@@ -39,11 +39,11 @@ class HomeWidget extends StatelessWidget {
                   );
                 },
                 child: Text(
-                  'کوییز بازی',
+                  'کوییaliز بdsdازی',
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
-                      fontSize: 18),
+                      fontSize: 20),
                 ),
               )
             ],
